@@ -19,8 +19,8 @@ The objective of this project is to develop an interactive quiz game to test use
 ### key activites 
 
 - **Questionnaire Design:**- Create a set of multiple-choice questions covering various general knowledge topics.
--**User Interaction:**- Implement input handling to capture user responses and provide immediate feedback on their answers.
--**Score Evaluation:**- Track the user's score and display personalized feedback based on their performance.
+- **User Interaction:**- Implement input handling to capture user responses and provide immediate feedback on their answers.
+- **Score Evaluation:**- Track the user's score and display personalized feedback based on their performance.
 
 ### technique used 
 
