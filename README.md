@@ -28,7 +28,9 @@ The objective of this project is to develop an interactive quiz game to test use
 **Conditional Logic:** Applying if statements to check the correctness of answers and update the score.
 **Console Output:** Utilizing printf to display questions, options, feedback, and the final score to the user.
 
-## output![Screenshot (19)](https://github.com/user-attachments/assets/3434d759-0aa7-4812-80eb-fcc8253c17f6)
+## output 
+![Screenshot (20)](https://github.com/user-attachments/assets/86dc8d2d-dc80-4c02-b50a-7708862afdf1)
+
 
 
 
