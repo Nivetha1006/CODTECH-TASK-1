@@ -7,7 +7,7 @@
 
 
 
-## Overview the peroject
+## Overview the project
 
 ### project : Your project is a simple C-based quiz game that asks users multiple-choice questions on general knowledge topics. It evaluates their answers, tracks the score, and provides feedback based on performance.
 
